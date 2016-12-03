@@ -1,6 +1,0 @@
-model_checkpoint_path: "cnn_session-15000"
-all_model_checkpoint_paths: "cnn_session-13000"
-all_model_checkpoint_paths: "cnn_session-13500"
-all_model_checkpoint_paths: "cnn_session-14000"
-all_model_checkpoint_paths: "cnn_session-14500"
-all_model_checkpoint_paths: "cnn_session-15000"
